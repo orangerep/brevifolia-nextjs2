@@ -14,3 +14,15 @@ fields:
 - type: file
   name: hero_image
   label: hero_image
+- name: related_post
+  type: select
+  default: []
+  config:
+    required: false
+    options: []
+    source:
+      type: simple
+      section: 
+      file: 
+      path: 
+  label: Related post
