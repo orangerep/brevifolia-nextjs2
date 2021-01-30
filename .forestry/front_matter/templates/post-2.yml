@@ -26,3 +26,11 @@ fields:
       file: 
       path: 
   label: Relp
+- name: block
+  type: blocks
+  label: Block
+  template_types:
+  - post-2
+  config:
+    min: 
+    max: 
