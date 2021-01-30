@@ -34,3 +34,4 @@ fields:
   label: Field group 2
 pages:
 - filename.md
+- posts/This is the file name.md
