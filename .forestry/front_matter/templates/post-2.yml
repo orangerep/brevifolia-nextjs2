@@ -14,3 +14,15 @@ fields:
 - type: file
   name: hero_image
   label: hero_image
+- name: relp
+  type: select
+  default: []
+  config:
+    required: false
+    options: []
+    source:
+      type: simple
+      section: 
+      file: 
+      path: 
+  label: Relp
