@@ -14,3 +14,13 @@ fields:
 - type: file
   name: hero_image
   label: hero_image
+- name: field_group_2
+  type: field_group
+  config: {}
+  fields:
+  - name: fieldgroupt_text
+    type: text
+    config:
+      required: false
+    label: Fieldgroupt text
+  label: Field group 2
