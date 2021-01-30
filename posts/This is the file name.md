@@ -1,5 +1,5 @@
 ---
-title: ''
+title: 'Title '
 author: ''
 date: 
 hero_image: ''
