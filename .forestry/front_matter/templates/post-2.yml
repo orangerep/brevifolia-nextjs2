@@ -21,7 +21,7 @@ fields:
     required: false
     options: []
     source:
-      type: simple
+      type: pages
       section: 
       file: 
       path: 
