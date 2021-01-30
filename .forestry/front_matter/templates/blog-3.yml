@@ -23,4 +23,12 @@ fields:
     config:
       required: false
     label: Fieldgroupt text
+  - name: block_4
+    type: blocks
+    label: Block 4
+    template_types:
+    - blog-3
+    config:
+      min: 
+      max: 
   label: Field group 2
